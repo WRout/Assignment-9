@@ -1,0 +1,19 @@
+.background_colour {
+	background-color: #737373;
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: arial;
+}
+
+.text_div {
+    width: 50%;
+}
+
+h1 span{
+    background-color: #cccccc;
+}
