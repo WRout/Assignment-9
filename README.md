@@ -1,6 +1,6 @@
 # Assignment #9: Superstars
 
-**This assignment is a collection of "Superstars" displayed on a website.**
+**This assignment is a collection of "Superstars" displayed on a website. View this project at: walker.rout.ca**
 
 ## Getting Started With the Project
 
